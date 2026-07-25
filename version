@@ -1,0 +1,10 @@
+{
+    "version": "1.3.9",
+    "changelog": "- UI界面字体下拉框、语言下拉框、浏览按钮\n- OpenAI兼容模式翻译接口",
+    "downloads": [
+      {"name": "百度(Win)", "url": "https://pan.baidu.com/s/11dqGf9IXt5kmrdLVokHckA?pwd=bdva"},
+      {"name": "Mega(Win)", "url": "https://mega.nz/folder/t7lXlDIR#Z8Dc1QyG0vTOxpkL3teAyA"},
+      {"name": "百度(Mac)", "url": "https://pan.baidu.com/s/1ZQZ3wYYU4BfBP57U6tAItA?pwd=b88k"},
+      {"name": "Mega(Mac)", "url": "https://mega.nz/folder/kjdlSRYZ#sV4T_RxAKuAkMD6eSi0j-w"}
+    ]
+  }
