@@ -1,6 +1,6 @@
 {
-    "version": "1.3.9",
-    "changelog": "- UI界面字体下拉框、语言下拉框、浏览按钮\n- OpenAI兼容模式翻译接口",
+    "version": "1.3.8",
+    "changelog": "- UI界面字体下拉框、语言下拉框、浏览按钮\n- OpenAI兼容模式翻译接口\n - AI设置页面优化，支持添加多个自定义API",
     "downloads": [
       {"name": "百度(Win)", "url": "https://pan.baidu.com/s/11dqGf9IXt5kmrdLVokHckA?pwd=bdva"},
       {"name": "Mega(Win)", "url": "https://mega.nz/folder/t7lXlDIR#Z8Dc1QyG0vTOxpkL3teAyA"},
